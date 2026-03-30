@@ -6,5 +6,5 @@
 ## General thoughts
 What i hope for me in the near future is to learn new skills and expand my understanding in the global stage . 
 ## project overview
-The general overview of the aforementioned project is a detailed digital background or portfolio required in the age of technology.
+The general overview of the aforementioned project is to develop a detailed digital background or portfolio which is required in the age of technology. In the times of rapid change, a mere presence in the job market is not enough. To increase the chances of employment, a constant active presence in the digital market is required. 
 
